@@ -13,19 +13,7 @@ List the primary technologies, frameworks, and tools used in the project. Exampl
 - Concepts: Database Design, Bussiness Rules, EERD Diagrams, Relations 3rd Normal Forms
 
 #### View Concept PDF
-Outline the key features of the project. Example:
-
-1. Navigate to Game Company folder, if not there already.
-2. Click on 'Video Game Company Database.pdf'
-3. Code should be viewable and can be downloaded.
+[Click Here For PDF](https://github.com/WTOscarMartinez/Portfolio/blob/main/Game%20Company/Video%20Game%20Company%20Database.pdf)
 
 #### View SQL code
-Provide instructions on how to set up and run the project. Example:
-
-1. Navigate to Game Company folder, if not there already.
-2. Click on 'GameCompanySQLCodeUsed.sql'
-3. Code should be viewable and can be downloaded.
-
-#### Screenshots
-Include relevant screenshots or PDFs showcasing the project's output.
-
+[Click Here For Code](https://github.com/WTOscarMartinez/Portfolio/blob/main/Game%20Company/GameCompanySQLCodeUsed.sql)
