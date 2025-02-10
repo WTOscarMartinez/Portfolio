@@ -1,7 +1,6 @@
 ### Video Game Company Database Concept Project
 
 #### Description
-A brief description of the project, including its purpose and key features. Example:
 
 > "Video Game Company Database is a conceptual database where the client is a video game company."
 
